@@ -1,5 +1,5 @@
 # pandorastudio
-[index.html.html](https://github.com/user-attachments/files/26847948/index.html.html)
+[index.html.html](https://github.com/user-attachments/files/26847948/index.html)
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
